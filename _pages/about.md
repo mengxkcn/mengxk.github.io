@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "个人简历"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-孟祥坤，本科毕业于山东第一医科大学应用化学专业，研究生毕业于扬州大学材料与化工专业，研究方向为精细化工。在校期间连续三年获学业奖学金，并获2022年“国家奖学金”，扬州大学2023级优秀毕业生等荣誉，发表SCI论文四篇，授权国家发明专利三项。
+
 
 A data-driven personal website
 ======
